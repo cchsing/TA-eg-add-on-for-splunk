@@ -1,0 +1,238 @@
+[props/eg%3Aorchestration%3Ashowtestsdetails]
+owner = admin
+version = 8.2.5
+modtime = 1669712977.722832000
+
+[props/source%3A%3A...ta-eg-add-on-for-splunk%2A.log%2A]
+owner = admin
+version = 8.2.5
+modtime = 1669712978.056489000
+
+[props/source%3A%3A...ta_eg_add_on_for_splunk%2A.log%2A]
+owner = admin
+version = 8.2.5
+modtime = 1669712978.427178000
+
+[props/eg%3Aorchestration%3Ashowcomponents]
+owner = admin
+version = 8.2.5
+modtime = 1669776587.027736000
+
+[inputs/getalerts%3A%2F%2FgetAlerts_OracleDB]
+owner = admin
+version = 8.2.5
+modtime = 1677653506.741320000
+
+[props/eg%3Aorchestration%3Ashowtests]
+owner = admin
+version = 8.2.5
+modtime = 1669799099.218417000
+
+[inputs/getalerts%3A%2F%2FgetAlerts_DB2]
+owner = admin
+version = 8.2.5
+modtime = 1673406617.413463000
+
+[inputs/getalerts%3A%2F%2FgetAlerts_OracleCluster]
+owner = admin
+version = 8.2.5
+modtime = 1677218694.094804000
+
+[inputs/getalerts%3A%2F%2FgetAlerts_MariaDB]
+owner = admin
+version = 8.2.5
+modtime = 1673406625.692790000
+
+[ta_eg_add_on_for_splunk_settings/logging]
+version = 8.2.5
+modtime = 1669865471.277967000
+
+[inputs/getalerts%3A%2F%2FgetAlerts_MSSQL_Cluster]
+owner = admin
+version = 8.2.5
+modtime = 1673406620.887266000
+
+[inputs/getalerts%3A%2F%2FgetAlerts_MySQL]
+owner = admin
+version = 8.2.5
+modtime = 1673406629.965119000
+
+[collections/TA_eg_add_on_for_splunk_checkpointer]
+owner = splunk-system-user
+version = 8.2.5
+modtime = 1669880359.688192000
+
+[props/eg%3Ainput%3A1]
+owner = admin
+version = 8.2.5
+modtime = 1669886809.787673000
+
+[props/eg%3Ainput%3A2]
+owner = admin
+version = 8.2.5
+modtime = 1670405588.100140000
+
+[props/api%3Aanalytics%3AgetAlerts]
+owner = admin
+version = 8.2.5
+modtime = 1671696874.909637000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23TA-eg-add-on-for-splunk%23configs%2Fconf-ta_eg_add_on_for_splunk_account%3Asplunk%60%60splunk_cred_sep%60%601%3A]
+owner = admin
+version = 8.2.5
+modtime = 1673406545.592259000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23TA-eg-add-on-for-splunk%23configs%2Fconf-ta_eg_add_on_for_splunk_account%3Asplunk%60%60splunk_cred_sep%60%602%3A]
+owner = admin
+version = 8.2.5
+modtime = 1673406545.602002000
+
+[ta_eg_add_on_for_splunk_account/splunk]
+owner = admin
+version = 8.2.5
+modtime = 1673406545.609514000
+
+[props/eg%3Ainput%3A3]
+owner = admin
+version = 8.2.5
+modtime = 1677219097.100317000
+
+[props/eg%3Aanalytics%3AgetTestData]
+owner = admin
+version = 8.2.5
+modtime = 1677220016.583449000
+
+[props/eg%3Aanalytics%3AgetZoneMapping]
+owner = admin
+version = 8.2.5
+modtime = 1677643534.103452000
+
+[props/eg%3AgetAllLiveData]
+owner = admin
+version = 8.2.5
+modtime = 1677648713.051481000
+
+[props/eg%3Aanalytics%3AgetLiveMeasure]
+owner = admin
+version = 8.2.5
+modtime = 1677652561.090054000
+
+[inputs/getalllivedata%3A%2F%2FgetAllLiveData_MySQL]
+owner = admin
+version = 8.2.5
+modtime = 1677658169.153898000
+
+[inputs/getalllivedata%3A%2F%2FgetAllLiveData_MicrosoftWindows]
+owner = admin
+version = 8.2.5
+modtime = 1677658303.550612000
+
+[inputs/getalllivedata%3A%2F%2FgetAllLiveData_Solaris]
+owner = admin
+version = 8.2.5
+modtime = 1677658343.578414000
+
+[inputs/getalllivedata%3A%2F%2FgetAllLiveData_Linux]
+owner = admin
+version = 8.2.5
+modtime = 1677658453.205221000
+
+[props/eg%3Amiscservice%3AgetComponentMapping]
+owner = admin
+version = 8.2.5
+modtime = 1677659783.046208000
+
+[props/eg%3Aanalytics%3AgetZoneDetails]
+owner = admin
+version = 8.2.5
+modtime = 1677660105.091120000
+
+[inputs/getalllivedata%3A%2F%2FgetAllLiveData_OracleCluster]
+owner = admin
+version = 8.2.5
+modtime = 1677664254.300069000
+
+[inputs/getalllivedata%3A%2F%2FgetAllLiveData_MicrosoftSQL]
+owner = admin
+version = 8.2.5
+modtime = 1677661076.427659000
+
+[inputs/getalllivedata%3A%2F%2FgetAllLiveData_MicrosoftSQLCluster]
+owner = admin
+version = 8.2.5
+modtime = 1677661099.159406000
+
+[inputs/getalllivedata%3A%2F%2FgetAllLiveData_MariaDatabase]
+owner = admin
+version = 8.2.5
+modtime = 1677661129.508468000
+
+[inputs/getalllivedata%3A%2F%2FgetAllLiveData_DB2UDB]
+owner = admin
+version = 8.2.5
+modtime = 1677822999.143317000
+
+[inputs/getalllivedata%3A%2F%2FgetAllLiveData_OracleDatabase]
+owner = admin
+version = 8.2.5
+modtime = 1677667393.364671000
+
+[inputs/getzonedetails%3A%2F%2FgetZoneDetails_Oracle]
+owner = admin
+version = 8.2.5
+modtime = 1677818691.553313000
+
+[inputs/getzonedetails%3A%2F%2FgetZoneDetails_DB2]
+owner = admin
+version = 8.2.5
+modtime = 1677819027.430105000
+
+[inputs/getzonedetails%3A%2F%2FgetZoneDetails_MicrosoftWindows]
+owner = admin
+version = 8.2.5
+modtime = 1677819053.214532000
+
+[inputs/getzonedetails%3A%2F%2FgetZoneDetails_Linux]
+owner = admin
+version = 8.2.5
+modtime = 1677819072.372173000
+
+[inputs/getzonedetails%3A%2F%2FgetZoneDetails_Solaris]
+owner = admin
+version = 8.2.5
+modtime = 1677819086.751854000
+
+[inputs/getzonedetails%3A%2F%2FgetZoneDetails_MySQL]
+owner = admin
+version = 8.2.5
+modtime = 1677819110.344040000
+
+[inputs/getzonedetails%3A%2F%2FgetZoneDetails_MariaDB]
+owner = admin
+version = 8.2.5
+modtime = 1677819128.128335000
+
+[inputs/getzonedetails%3A%2F%2FgetZoneDetails_MSSQL]
+owner = admin
+version = 8.2.5
+modtime = 1677819145.618353000
+
+[inputs/getzonemapping%3A%2F%2FgetZoneMapping]
+owner = admin
+version = 8.2.5
+modtime = 1677819392.776710000
+
+[props/eg%3AgetAllLiveData%3A2]
+owner = admin
+version = 8.2.5
+modtime = 1677822622.131307000
+
+[props/eg%3AgetZoneLiveMeasure]
+owner = admin
+version = 8.2.5
+modtime = 1677822837.107357000
+
+[inputs/getzonelivemeasure%3A%2F%2FgetZoneLiveMeasure_DB2]
+owner = admin
+version = 8.2.5
+modtime = 1677823047.831710000
